@@ -1,0 +1,36 @@
+# .gitignore
+#
+# files and directories that git should ignore
+#
+
+# directories
+
+log/
+tmp/
+.builder/
+.vscode/
+
+# files
+
+core
+procore.*
+protrace.*
+.project
+.settings
+
+# extensions/suffixes
+
+*~
+*.code-workspace
+*.dbg
+*.debug
+*.err
+*.lg
+*.lis
+*.list
+*.log
+*.ped
+*.r
+*.stdout
+*.tmp
+*.xref
